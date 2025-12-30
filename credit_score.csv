@@ -1,0 +1,16 @@
+Age,Occupation,Annual_Income,Num_Bank_Accounts,Num_Credit_Card,Outstanding_Debt,Credit_Score
+23,Engineer,450000,2,3,12000,Good
+35,Doctor,850000,3,4,5000,Good
+29,Teacher,380000,2,2,20000,Standard
+42,Manager,950000,4,5,3000,Good
+25,Student,150000,1,1,25000,Poor
+31,Engineer,600000,3,3,15000,Standard
+48,Business,1200000,5,6,2000,Good
+27,Teacher,320000,2,2,22000,Standard
+39,Doctor,900000,4,4,4000,Good
+22,Student,120000,1,1,30000,Poor
+34,Manager,700000,3,4,8000,Standard
+28,Engineer,500000,2,3,10000,Good
+45,Business,1100000,5,5,3500,Good
+26,Student,180000,1,2,28000,Poor
+37,Teacher,420000,2,3,17000,Standard
